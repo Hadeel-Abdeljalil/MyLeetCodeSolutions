@@ -21,5 +21,6 @@ public:
             return (static_cast<double>(middle1) + static_cast<double>(middle2)) / 2.0;
         }
     }
+    
 };  
 
