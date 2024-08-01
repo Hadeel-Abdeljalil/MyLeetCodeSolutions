@@ -1,4 +1,5 @@
 class Solution {
+    //fibonacci
 public:
     int climbStairs(int n) {
         int a=0,b=1,sum=0;
